@@ -1,4 +1,4 @@
-# Budget-Tracker PWA
+# Portfolio Generator
 
 ![contributors-shield](https://img.shields.io/github/contributors/btking1/README-Generator?style=for-the-badge)
 ![forks-shield](https://img.shields.io/github/forks/btking1/README-Generator?style=for-the-badge)
@@ -54,13 +54,14 @@ node app.js
 
 <br/>
 
-You will then be prompted to enter a series of quesitons including your name and descriptions of your projects. 
+You will then be prompted to enter a series of quesitons including your name and descriptions of your projects. The HTMLand CSS build output can be found in the /dist folder 
 
 <br/>
 
 
-<!-- add image link  -->
-![image](https://i.imgur.com/QQQQQQQ.png)
+
+![image](https://github.com/btking1/Portfolio-Generator/blob/main/images/Screenshot%202022-09-08%20221622.jpg)
+![image](https://github.com/btking1/Portfolio-Generator/blob/main/images/Screenshot2.jpg)
 
 
 ## Questions
